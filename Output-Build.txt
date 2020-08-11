@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: RSSWATCH, Configuration: Release Any CPU ------
+1>C:\Users\Develop\Desktop\Scheduler\Scheduler\RESSWATCHServer.cs(97,43,97,97): warning CS0618: 'System.Configuration.ConfigurationSettings.AppSettings' is obsolete: 'This method is obsolete, it has been replaced by System.Configuration!System.Configuration.ConfigurationManager.AppSettings'
+1>C:\Users\Develop\Desktop\Scheduler\Scheduler\RESSWATCHServer.cs(104,40,104,94): warning CS0618: 'System.Configuration.ConfigurationSettings.AppSettings' is obsolete: 'This method is obsolete, it has been replaced by System.Configuration!System.Configuration.ConfigurationManager.AppSettings'
+1>  RSSWATCH -> C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Release\RSSWATCH.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

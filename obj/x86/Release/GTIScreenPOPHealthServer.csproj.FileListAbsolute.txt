@@ -1,0 +1,3 @@
+D:\Projects\Yetti Systems\Scheduler\bin\Release\GTIScreenPOPHealthServer.exe.config
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Release\GTIScreenPOPHealthServer.exe
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Release\GTIScreenPOPHealthServer.pdb

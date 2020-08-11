@@ -1,0 +1,20 @@
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Release\Scheduler.csprojResolveAssemblyReference.cache
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Release\Scheduler.csproj.GenerateResource.Cache
+D:\Projects\Yetti Systems\Scheduler\bin\Release\ApplicationLogger.dll
+D:\Projects\Yetti Systems\Scheduler\bin\Release\log4net.dll
+D:\Projects\Yetti Systems\Scheduler\bin\Release\Scheduler.exe.config
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Release\SchedulerServer.ProjectInstaller.resources
+D:\Projects\Yetti Systems\Scheduler\bin\Release\Scheduler.exe
+D:\Projects\Yetti Systems\Scheduler\bin\Release\Scheduler.pdb
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Release\Scheduler.exe
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Release\Scheduler.pdb
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Release\SchedulerServer.snowScheduler.resources
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Release\SchedulerServer.FrmTestService.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Release\Scheduler.exe.config
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x86\Release\Scheduler.exe
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x86\Release\Scheduler.pdb
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x86\Release\Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x86\Release\SchedulerServer.FrmTestService.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x86\Release\SchedulerServer.snowScheduler.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x86\Release\SchedulerServer.ProjectInstaller.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x86\Release\Scheduler.csproj.GenerateResource.Cache

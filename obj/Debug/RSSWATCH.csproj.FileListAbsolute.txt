@@ -1,0 +1,75 @@
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\RSSWATCH.exe.config
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\RSSWATCH.exe
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\RSSWATCH.pdb
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\System.IO.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\System.Runtime.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\System.IO.xml
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\System.Runtime.xml
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\System.Threading.Tasks.xml
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\Debug\RSSWATCH.csproj.App.config
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\Debug\RESSWATCH.FrmTestService.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\Debug\RESSWATCH.RESSWATCHServer.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\Debug\RESSWATCH.ProjectInstaller.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\Debug\RSSWATCH.csproj.GenerateResource.Cache
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\Debug\RSSWATCH.exe
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\Debug\RSSWATCH.pdb
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\RSSWATCH.exe.config
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\RSSWATCH.exe
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\RSSWATCH.pdb
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\HtmlAgilityPack.dll
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\Newtonsoft.Json.dll
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\WebDriver.dll
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\ApplicationLogger.dll.config
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\HtmlAgilityPack.pdb
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\HtmlAgilityPack.xml
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\Microsoft.Threading.Tasks.xml
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\Newtonsoft.Json.xml
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\Debug\WebDriver.xml
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\Debug\RSSWATCH.csprojAssemblyReference.cache
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\Debug\RESSWATCH.FrmTestService.resources
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\Debug\RESSWATCH.RESSWATCHServer.resources
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\Debug\RESSWATCH.ProjectInstaller.resources
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\Debug\RSSWATCH.csproj.GenerateResource.cache
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\Debug\RSSWATCH.csproj.CoreCompileInputs.cache
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\Debug\RSSWATCH.csproj.CopyComplete
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\Debug\RSSWATCH.exe
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\Debug\RSSWATCH.pdb
+E:\Work\Others\Scheduler\bin\Debug\RSSWATCH.exe.config
+E:\Work\Others\Scheduler\bin\Debug\RSSWATCH.exe
+E:\Work\Others\Scheduler\bin\Debug\RSSWATCH.pdb
+E:\Work\Others\Scheduler\bin\Debug\HtmlAgilityPack.dll
+E:\Work\Others\Scheduler\bin\Debug\Microsoft.Threading.Tasks.dll
+E:\Work\Others\Scheduler\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Work\Others\Scheduler\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+E:\Work\Others\Scheduler\bin\Debug\Newtonsoft.Json.dll
+E:\Work\Others\Scheduler\bin\Debug\WebDriver.dll
+E:\Work\Others\Scheduler\bin\Debug\HtmlAgilityPack.pdb
+E:\Work\Others\Scheduler\bin\Debug\HtmlAgilityPack.xml
+E:\Work\Others\Scheduler\bin\Debug\Microsoft.Threading.Tasks.xml
+E:\Work\Others\Scheduler\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+E:\Work\Others\Scheduler\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\Work\Others\Scheduler\bin\Debug\Newtonsoft.Json.xml
+E:\Work\Others\Scheduler\bin\Debug\WebDriver.xml
+E:\Work\Others\Scheduler\obj\Debug\RSSWATCH.csprojAssemblyReference.cache
+E:\Work\Others\Scheduler\obj\Debug\RESSWATCH.FrmTestService.resources
+E:\Work\Others\Scheduler\obj\Debug\RESSWATCH.RESSWATCHServer.resources
+E:\Work\Others\Scheduler\obj\Debug\RESSWATCH.ProjectInstaller.resources
+E:\Work\Others\Scheduler\obj\Debug\RSSWATCH.csproj.GenerateResource.cache
+E:\Work\Others\Scheduler\obj\Debug\RSSWATCH.csproj.CoreCompileInputs.cache
+E:\Work\Others\Scheduler\obj\Debug\RSSWATCH.csproj.CopyComplete
+E:\Work\Others\Scheduler\obj\Debug\RSSWATCH.exe
+E:\Work\Others\Scheduler\obj\Debug\RSSWATCH.pdb

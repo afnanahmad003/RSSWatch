@@ -1,0 +1,16 @@
+D:\Projects\Yetti Systems\Scheduler\bin\Debug\Scheduler.exe.config
+D:\Projects\Yetti Systems\Scheduler\bin\Debug\Scheduler.exe
+D:\Projects\Yetti Systems\Scheduler\bin\Debug\Scheduler.pdb
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Debug\SchedulerServer.FrmTestService.resources
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Debug\SchedulerServer.snowScheduler.resources
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Debug\SchedulerServer.ProjectInstaller.resources
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Debug\Scheduler.csproj.GenerateResource.Cache
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Debug\Scheduler.exe
+D:\Projects\Yetti Systems\Scheduler\obj\x86\Debug\Scheduler.pdb
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x86\Debug\Scheduler.exe
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x86\Debug\Scheduler.pdb
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x86\Debug\SchedulerServer.FrmTestService.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x86\Debug\SchedulerServer.snowScheduler.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x86\Debug\SchedulerServer.ProjectInstaller.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x86\Debug\Scheduler.csproj.GenerateResource.Cache

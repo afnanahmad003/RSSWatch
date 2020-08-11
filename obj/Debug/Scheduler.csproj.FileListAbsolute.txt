@@ -1,0 +1,11 @@
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\Debug\SchedulerServer.FrmTestService.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\Debug\SchedulerServer.snowScheduler.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\Debug\SchedulerServer.ProjectInstaller.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\Debug\Scheduler.csproj.GenerateResource.Cache
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\Debug\Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\Debug\Scheduler.exe
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\Debug\Scheduler.pdb
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\Debug\RESSWATCH.exe.config

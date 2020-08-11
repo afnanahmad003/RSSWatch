@@ -1,0 +1,82 @@
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\RSSWATCH.exe.config
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\RSSWATCH.exe
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\RSSWATCH.pdb
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\ApplicationLogger.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\log4net.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\System.IO.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\System.Runtime.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\System.Threading.Tasks.dll
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.xml
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\System.IO.xml
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\System.Runtime.xml
+C:\Users\Develop\Desktop\Scheduler\Scheduler\bin\x64\Release\System.Threading.Tasks.xml
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x64\Release\RSSWATCH.csproj.App.config
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x64\Release\RESSWATCH.FrmTestService.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x64\Release\RESSWATCH.RESSWATCHServer.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x64\Release\RESSWATCH.ProjectInstaller.resources
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x64\Release\RSSWATCH.csproj.GenerateResource.Cache
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x64\Release\RSSWATCH.exe
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x64\Release\RSSWATCH.pdb
+C:\Users\Develop\Desktop\Scheduler\Scheduler\obj\x64\Release\RSSWATCH.csprojResolveAssemblyReference.cache
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\RSSWATCH.exe.config
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\obj\x64\Release\RSSWATCH.exe
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\obj\x64\Release\RSSWATCH.pdb
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\RSSWATCH.exe
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\RSSWATCH.pdb
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\ApplicationLogger.dll
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\FirebirdSql.Data.FirebirdClient.dll
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\log4net.dll
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.dll
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.Extensions.dll
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\System.IO.dll
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\System.Runtime.dll
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\System.Threading.Tasks.dll
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\FirebirdSql.Data.FirebirdClient.pdb
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.xml
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.Extensions.xml
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\System.IO.xml
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\System.Runtime.xml
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\bin\x64\Release\System.Threading.Tasks.xml
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\obj\x64\Release\RSSWATCH.csproj.App.config
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\obj\x64\Release\RSSWATCH.csprojResolveAssemblyReference.cache
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\obj\x64\Release\RESSWATCH.FrmTestService.resources
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\obj\x64\Release\RESSWATCH.RESSWATCHServer.resources
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\obj\x64\Release\RESSWATCH.ProjectInstaller.resources
+D:\Sumraiz\German Win VB\Scheduler\Scheduler\obj\x64\Release\RSSWATCH.csproj.GenerateResource.Cache
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\RSSWATCH.exe.config
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\RSSWATCH.exe
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\RSSWATCH.pdb
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\ApplicationLogger.dll
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\log4net.dll
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.dll
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.Extensions.dll
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\ApplicationLogger.dll.config
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.xml
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.Extensions.xml
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\x64\Release\RESSWATCH.FrmTestService.resources
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\x64\Release\RESSWATCH.RESSWATCHServer.resources
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\x64\Release\RESSWATCH.ProjectInstaller.resources
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\x64\Release\RSSWATCH.csproj.GenerateResource.cache
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\x64\Release\RSSWATCH.csproj.CoreCompileInputs.cache
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\x64\Release\RSSWATCH.csproj.CopyComplete
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\x64\Release\RSSWATCH.exe
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\x64\Release\RSSWATCH.pdb
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\obj\x64\Release\RSSWATCH.csprojAssemblyReference.cache
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\HtmlAgilityPack.dll
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\Newtonsoft.Json.dll
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\WebDriver.dll
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\HtmlAgilityPack.pdb
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\HtmlAgilityPack.xml
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\Newtonsoft.Json.xml
+F:\Work\WithAfnanFreelance\Shopify Scrapper\Scheduler\bin\x64\Release\WebDriver.xml
